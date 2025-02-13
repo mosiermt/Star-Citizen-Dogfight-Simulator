@@ -2,7 +2,6 @@ from statistics import mean
 from django.conf import settings
 from .models import LoadoutModel, ShipModel, ShieldModel, WeaponModel
 import math
-import json
 
 
 class Modifier:

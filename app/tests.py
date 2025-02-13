@@ -4,7 +4,6 @@ when you run "manage.py test".
 """
 
 import json
-from django.conf import settings
 from datetime import UTC, datetime
 from django.test import TestCase
 from .models import ShieldModel, ShipModel, WeaponModel, LoadoutModel, CustomUser
