@@ -49,7 +49,6 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\migrations\" />
-    <Folder Include="app\test\" />
     <Folder Include="app\static\" />
     <Folder Include="app\static\app\" />
     <Folder Include="app\static\app\content\" />
@@ -57,14 +56,9 @@
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
-    <Folder Include="app\test\resources\" />
     <Folder Include="Star_Citizen_Dogfight_Simulator_Web\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\test\resources\loadouts.json" />
-    <Content Include="app\test\resources\shields.json" />
-    <Content Include="app\test\resources\ships.json" />
-    <Content Include="app\test\resources\weapons.json" />
     <Content Include="readme.md" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
